@@ -53,7 +53,7 @@ The Equator is not perfectly aligned with the Earth orbital plan. This inclinati
 
 It means that, in the North's Summer, the sun rays hits the surface more directly. The horizontal line that it happens in the North is called Tropic of Cancer. The South's counterpart is called Tropic of Capricorn.
 
-In the Winter, the sun hits the hemisphere less directly, affecting directly the mean temperature.
+In the Winter, the sun hits the hemisphere less directly, increasing the mean temperature.
 
 We're going to use a sine wave to calculate the axial tilt on a specific date.
 
